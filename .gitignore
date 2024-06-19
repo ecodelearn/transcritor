@@ -1,0 +1,6 @@
+textos_transcritos/
+videos/
+venv/
+.venv
+env/
+.env/
